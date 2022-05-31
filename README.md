@@ -10,3 +10,4 @@ In this exercise, you will create a python program for a pet adoption center tha
 - Right before the program finishes, make sure to close the file that was opened. 
 - STRETCH: Refactor your solution to use python's [with statement](https://www.geeksforgeeks.org/with-statement-in-python/). This is an advanced python feature that helps you automatically perform certain mundane actions, like closing files after you're done reading them. 
 
+```~~~```
